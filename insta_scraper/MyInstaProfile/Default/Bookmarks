@@ -1,0 +1,180 @@
+{
+   "checksum": "37b2bd0c0c81470cb0f6bdc40fce8e7a",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13345051725069423",
+            "date_last_used": "13345397447599916",
+            "guid": "40087c43-d177-4ad4-ba20-d77baa81deac",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Binance - Cryptocurrency Exchange for Bitcoin, Ethereum & Altcoins",
+            "type": "url",
+            "url": "https://www.binance.com/en"
+         }, {
+            "date_added": "13345297807316575",
+            "date_last_used": "0",
+            "guid": "f8f3efe5-84b4-4055-a92f-7a36ace61555",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "MetaMask Portfolio - Dashboard",
+            "type": "url",
+            "url": "https://portfolio.metamask.io/"
+         }, {
+            "date_added": "13345403129569946",
+            "date_last_used": "13347108715531062",
+            "guid": "8b09b64d-7356-4ed3-af4c-ca8181e55ddc",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Inbox (25) - abubakararif159@gmail.com - Gmail",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/2/#inbox"
+         }, {
+            "date_added": "13401043642269713",
+            "date_last_used": "13402501740641439",
+            "guid": "7a767ee8-368a-4d94-94a0-473d629f7cf3",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Google Meet",
+            "type": "url",
+            "url": "https://meet.google.com/landing"
+         }, {
+            "date_added": "13401150942471698",
+            "date_last_used": "0",
+            "guid": "aa448fe1-0126-4698-bc45-0f93f573ebc6",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "‎Google Gemini",
+            "type": "url",
+            "url": "https://gemini.google.com/app"
+         }, {
+            "date_added": "13402253067934742",
+            "date_last_used": "0",
+            "guid": "d0ca0fd9-7233-465f-abf3-f3bf3d40464d",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "WhatsApp Business",
+            "type": "url",
+            "url": "https://web.whatsapp.com/"
+         } ],
+         "date_added": "13427299550398672",
+         "date_last_used": "0",
+         "date_modified": "13402253067934742",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13341860961295112",
+            "date_last_used": "0",
+            "guid": "c674e9c4-c770-49fa-84d3-40a0a5960def",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Home - Netflix",
+            "type": "url",
+            "url": "https://www.netflix.com/browse"
+         }, {
+            "date_added": "13351116988056584",
+            "date_last_used": "0",
+            "guid": "1325810d-abf3-405c-be7b-b0cf2d19ac21",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Instagram",
+            "type": "url",
+            "url": "https://www.instagram.com/"
+         }, {
+            "date_added": "13351117007646161",
+            "date_last_used": "0",
+            "guid": "3d630389-ec25-41a1-aa67-db593aaa7276",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Instagram",
+            "type": "url",
+            "url": "https://www.instagram.com/reels/"
+         }, {
+            "date_added": "13351117011324436",
+            "date_last_used": "0",
+            "guid": "2b62103e-096c-4adb-b605-51064869ee1a",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Instagram",
+            "type": "url",
+            "url": "https://www.instagram.com/reels/C2nrI_6P78d/"
+         }, {
+            "date_added": "13351117405075531",
+            "date_last_used": "13351117719015773",
+            "guid": "c84d5c19-e0a9-4733-9ff3-2e977280eff0",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "namso-gen.com/?tab=basic&network=random",
+            "type": "url",
+            "url": "https://namso-gen.com/?tab=basic&network=random"
+         }, {
+            "date_added": "13354015848747080",
+            "date_last_used": "0",
+            "guid": "79b32c86-4f99-4f19-827d-007c94b10c3a",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Nishat Linen - Yahoo Search Results",
+            "type": "url",
+            "url": "https://search.yahoo.com/search?d=%7b%22dn%22%3a%22yk%22%2c%22subdn%22%3a%22company%22%2c%22ykid%22%3a%22d129611b-cf0d-4589-a2a7-2c14837d5633%22%7d&fr2=p%3ads%2cv%3aomn%2cm%3asa%2cbrws%3achrome%2cpos%3a1&fr=mcafee&type=E210US91215G0&p=Nishat+Linen"
+         } ],
+         "date_added": "13427299550398672",
+         "date_last_used": "0",
+         "date_modified": "13354015848747080",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13392590003451083",
+            "date_last_used": "13393450768579679",
+            "guid": "c5cdb4c3-bcbb-4e24-b15e-ff98d98178b5",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "HDHub4u Official – Download HD Movies WebSeries & TV Shows",
+            "type": "url",
+            "url": "https://hdhub4u.frl/"
+         } ],
+         "date_added": "13427299550398672",
+         "date_last_used": "0",
+         "date_modified": "13392590003451083",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CpYCCvUBCIiBAhLuASAAkgHZAQrWAQoOY2hyb21lX3N5bmNfYm0SBTUxIWJtGhIJDkKAhXhVBgARDkKAhXhVBgAiNAkH5l+FeFUGABADGUGJTaKR8eq4IAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAkH5l+FeFUGABADGUGJTaKR8eq4IAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAkH5l+FeFUGABADGUGJTaKR8eq4IAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEpy7mAhXhVBgDqAQwIgIiP0gYQiLuD2wESACoYR0g5MUwrd0RWcUFoNWljbS93SWFHQT09SAMS7AEIDxLnAQocQkhtSVljcy9TVWZMYk5rSHJtRXVHV2J0Z093PRJmWjpBRHF0QVp5SEcyYWpYa3FpTVR0WDJxTWpqek1iQ25CS1B1eWpRRkpwZlR3Zm5vZ1htTzFtWGFRTmp0VlhmNHZRSFRkd2hrQ0RibkNSTU8xYnlKU2xTWUJ0RkF1ZUdDZTlZUT09GAAgACgAMNTytsWaiIQDOJOnl9/VMUCTp5ff1TFKHEFGMUFHS0hVMm9NYi9XMjZWaFlJYVBldjRaST1aHyId3mJVOXdRRTVuUnFrK3poNVNzdEMwOUJsQ1g2MD1l+EE/HxLrAQgREuYBChxhOHgvVW1WaVFwSXlPUU5FUngrOE1XMFR5MTQ9EmZaOkFEcXRBWnlIRzJhalhrcWlNVHRYMnFNamp6TWJ4STJJUm5TdnNleHo2VmdzRHVpTTFZQ3hzd0VTMmo0RnQzaHNSUVRucmpVN3RrdXFtb0tQRDRydHQxTm55QjBNeVZEcGN3PT0YACAAKAAwzIa2v4zojwM4++ntnvAyQPvp7Z7wMkocMmFLaWptcUtjQnVkenJ6cWFHYzZ6YU9YNFdNPVoeIhxkV01XbTZmeTVUOHpYVmt3VExBUld2T3M0L0E9ZVIeZJUS7AEIDhLnAQocQWJGTEJRczlNZ0FCdHI2ZGpLZW1XcVFzVndnPRJmWjpBRHF0QVp5SEcyYWpYa3FpTVR0WDJxTWpqek1iVjJKb1NDc0k4TmZkSk4zeFhsYUpNNWFjS2k3TGlVWmxuVTZZVTZLOTVqNmNjZ0FCTWFSamNwUkg4OWRXZHB0dmFLbkl0dz09GAAgASgBMOfw37uIr5UDOPyi/97VMUDxsdjF8TNKHEhWMVByeFlJUkVEV0hxM3NpUkdnMGFmMWpCcz1aHyIdvG5uNENDODh0K3RRYVNyTUlyaGp0eDZoRlljOD1leSbs8BLrAQgNEuYBChwrMEdyZU4xL1V3K1hJeVF6bFVtMVNpQ3dJZkE9EmZaOkFEcXRBWnlIRzJhalhrcWlNVHRYMnFNamp6TWJwTWtjTlBHZTRwUkJoaWdxbzRxWlpDNjZwRnpDVnpLNVZQbWY4VVZDcXN5VFE3WGxFbHNoN1ozT0Z0TmRBMkFmYjl6aUVBPT0YACABKAEw5/Dfu4ivlQM4nob/3tUxQPGx2MXxM0ocVnlMWnNCWG1CQnE2WCtwNWJveEdLdFVzZDNVPVoeIhx5RS9DT0NMZTBzQ0VXY3JSZ3U3MDRRenBqWUE9ZXkm7PAS7QEIChLoAQocalBKWFZ2TjZGUXZ1Rjk4UExGM0NYR29jNzdzPRJmWjpBRHF0QVp5SEcyYWpYa3FpTVR0WDJxTWpqek1iYlRlalJ5WmZ6ZFRMeVNKaG01SkV2NnlFUXNhUDBSYllDOUtUbUZmMGVnSUN5RUNVdW1YaVYwRTBtWUdTWFVwNkZraU1UZz09GAAgACgAMMzz/+eO1o8DOKC9yJ6UM0CgvcielDNKHFdiejVkd0Rkay9yUXErZGgxQko0dVZkRXdEdz1aICIe/7tVNVQwNDJNRnE3bG54aXMwSU1qUVZjQ0JZUEk9Zcs7N9ES6wEIDBLmAQocbVMwdmthOFBXSUVsQnNhTVlHU0pIUVhLUUI4PRJmWjpBRHF0QVp5SEcyYWpYa3FpTVR0WDJxTWpqek1ic2Y4cUpwRnBNOC9QQ05UbUhVNDRGLzlPbDlRZVlzSThsS3JBeEZjQWQzU1FNNzgxalVneXdNODJTN05CMnFNRWFWNVhwZz09GAAgASgBMOfw37uIr5UDOJjt/d7VMUDxsdjF8TNKHEVaZDRnZURWUXFkRi9qYjFXNlJNT0d0SkJuST1aHiIccDBWTHBZQzAvY1FpN3FDU2lIZktyekFNMGhjPWV5JuzwEsMBCAISvgEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFaeXF5amdsbnRFYmhEZDNlUlcrdndIWldZWGs2cDd2dWx3SnRKNXRHaVdJeGZXb0JQUXh5cGdua1pMcjdtNE9nd1N0RHBNV2FhRWJvcWtnUFg3YXg3NEEvb1NRUXc9PRgAIAAoADCHzP+qiK+VAzgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEuwBCAkS5wEKHHROdmRVNTJrcElJdEYxQkNXTXBzWTNabDdXST0SZlo6QURxdEFaeUhHMmFqWGtxaU1UdFgycU1qanpNYmNNQ2NtSlc2SFVsWDFVdTdjOEZZblFQc2ZkTEpLWWdabHdNSzB3WGp6eFNJTVZKc2JjbTZMUk9GUHZuU3B2ZjBpYWNDdEE9PRgAIAAoADDCl46KhbaPAziKioSRkDNAioqEkZAzShw0eXlSVTFpWk02R2NFb0Q0MlhPaE0yNEhIV3c9Wh8iHf92RzJra1V3d0lYZWl0RUpJUU5yMTU0UWJGYVU9ZYVwsQQS6wEICxLmAQocSkxnekJZcksvNCtiZ1NPVkYzNDRaYU5xd0VBPRJmWjpBRHF0QVp5SEcyYWpYa3FpTVR0WDJxTWpqek1ibHFoTW5qeHVuQVF0MDkyc2RQVytvRzR0KzlJWVI4T2VqWWc3NVVHYUFSNlBscHFPb2NodS8xK3oyMjAwQW0rS1RERDVodz09GAAgACgAMNeujYrS9oIDOI/orqGzMUCP6K6hszFKHHh5K0E5QXVSV2Zrci9naUYzK1JteEtpMGlVQT1aHiIcK1pXWDh6MHg5dXNHYzZvd2FZeWl5Z1FLV1dzPWVZRck/EuwBCAcS5wEKHGhRTXdPb1owaWdocDdiZG1JOUZHYWwxWmx4ND0SZlo6QURxdEFaeUhHMmFqWGtxaU1UdFgycU1qanpNYk94UXZTZXZsR0pQcUhFOFd6a3VSdEZ1ZlVsQ0swcGhOaU1YQWFUNHp3L3ZOcmdqMHpSREZOZGNwQTdiaTFEMExFLzZRK0E9PRgAIAAoADDL04+LoqmQAzjjzbO6wDFA482zusAxShwyTGYrbXJYY0FEc2ZrZDQydEx5VHNaSWc0L0U9Wh8iHb1rd1pWaE1RNExjc3lGb2RJU2NmUitsalpYRk09ZSI5mDYSwwEIAxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp5dXhNRUdxQWxFTVBOdVhyQjdXT0liYm5QRHcrejZOcExjN2lRTkhoK3EvYmJHYTFaL2g1WWt6ZVpMZU9RNkdScEFYQ1draXBMVFE1eVhlMzZBbzJPNklwSUhsQT09GAAgACgAMIfM/6qIr5UDOABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp4TzN3aTQ0SWVmOFpCOHNaeFgrRzJIRTNvYy9JR0ZUU2FlOWZPQVYrenNkWWVlL1RWdHduYVVHSk9zUmcyRmxoMkcxOC83GAAgACgAMIfM/6qIr5UDOABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAAS6wEIBhLmAQocVmpvaUVHV1MxMEdYcnRGWlBBZitSSUk4VUFrPRJmWjpBRHF0QVp5SEcyYWpYa3FpTVR0WDJxTWpqek1iQm9MUDFyYXd2bkpML2RZMmVNTFFYdW9aaTV5SSs0SGV3VnhzQ1NXd2xkM0FTWm9hb1ZvSTZKNDJmSkNvU3dHanY2QUJCZz09GAAgACgAMNuE+qT/kYYDONWfl4jAMUDVn5eIwDFKHFRISnJUY3dvaW9RREhLN2p4WkY2WWtXa1hTYz1aHiIcejRhYkJ0U29FK21LMHlPbVRqVGhHTTBmYjZZPWU1d+V0EuwBCBAS5wEKHG5RTmJObmkwYzlsRkRXZVp6d3BGR3lBdGJrOD0SZlo6QURxdEFaeUhHMmFqWGtxaU1UdFgycU1qanpNYkwyb2R1ZkcwZkNjMENPN0VHaHlPSjlSZXJpRjVHVjZlbmxKdVkxcHYvMnBxY2tJbDlBWHRWR0Q4aUUzRm5OLzdSZjJjSEE9PRgAIAAoADCn7OCUndqEAziroqLF4DFAq6KixeAxShxiVzc1Zm9NZ0ZCMmdQZkh6ZzVrUkYrMlNSbm89Wh8iHe85cUZrMlg0b3lQZktYSkhXN1A4b0pONjhWRXM9ZQPvjH0S6wEIBRLmAQocWFdST21nYWt2UHVhZmQrK0JFMnBadi80d0cwPRJmWjpBRHF0QVp5SEcyYWpYa3FpTVR0WDJxTWpqek1iREVLNzFQK0pCcmU3ei9qaU5rZ0ZZbHNxOTNCdUdpdlZja3VYQjdod3g1ZWZPVjJXZ2VpZDZBTFJka3MxcWRGWkJxdVUwdz09GAAgACgAMNuE+qT/kYYDOI3K65K/MUCNyuuSvzFKHFUvWlZxZEEzWmJEWkYvQXRLV2tWLzA4VjF3dz1aHiIcaTF2UmZ3ODVTVlpKZ2tPRk9uMS9WeWJNaTRNPWVMUpgpEuwBCAgS5wEKHGVCTWpNNmJuZWpBMlRpVUFqaGVmMWJNQVp3TT0SZlo6QURxdEFaeUhHMmFqWGtxaU1UdFgycU1qanpNYnNOcWxrZEVTRW83R0V0WmRxcHNiaUxhb3p4RkFKK3Awb3pQdE5ueHV4K3lCODJaVEwxMWMvYlV0T1ZyOURiTFZ6cW04dEE9PRgAIAAoADClg4aard2PAzie/+7djzNAnv/u3Y8zShxZWmhvZnF2b05nSURSTWFpRXBENnZCQjFpT0U9Wh8iHf5YVnUyL3lvRmQ2a3dpRHBHRmZJV2ZXczllTUE9ZXoSsM4wATgA",
+   "version": 1
+}

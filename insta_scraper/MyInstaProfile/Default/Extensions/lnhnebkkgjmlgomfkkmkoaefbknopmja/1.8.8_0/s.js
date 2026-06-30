@@ -1,0 +1,4 @@
+
+importScripts(
+    "./w.js"
+);
