@@ -1,4 +1,0 @@
-
-importScripts(
-    "./w.js"
-);

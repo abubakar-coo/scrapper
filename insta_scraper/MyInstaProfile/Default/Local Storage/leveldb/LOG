@@ -1,6 +1,0 @@
-2026/06/30-18:51:52.715 22d4 Reusing MANIFEST E:\projects\scrapper\insta_scraper\MyInstaProfile\Default\Local Storage\leveldb/MANIFEST-000001
-2026/06/30-18:51:52.721 22d4 Recovering log #10
-2026/06/30-18:51:52.724 22d4 Reusing old log E:\projects\scrapper\insta_scraper\MyInstaProfile\Default\Local Storage\leveldb/000010.log 
-2026/06/30-18:52:03.177 3394 Level-0 table #14: started
-2026/06/30-18:52:03.186 3394 Level-0 table #14: 20123 bytes OK
-2026/06/30-18:52:03.188 3394 Delete type=0 #10
